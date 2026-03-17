@@ -1,12 +1,12 @@
 ## Welcome my profile!
-***
-### Who Am I...?
+
+##### Who Am I...?
   - 3rd year physics honours student at the University of Manitoba
     - Minor in Math, and Philosophy
   - Linux user (on Arch, btw...)
   - Hobbies are gaming, reading, and now coding!
-***
-### What Am I Doing Here...?
+
+##### What Am I Doing Here...?
 - I'd like to experiment with programming in Python, for now.
 - If I have any project goals, they would be:
   - Atomic Model Simulations
